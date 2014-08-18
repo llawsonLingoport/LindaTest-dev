@@ -14,6 +14,7 @@
 "tDx-oc-GBE.text" = "The username or \"password\" was incorrect.";
 
 /* Class = "IBUIButton"; normalTitle = "password?"; ObjectID = "ve9-w9-WX9"; */
+/*LRM_RESEND fr-ios- add before import */
 "ve9-w9-WX9.normalTitle" = "password?";
 
 /* Class = "IBUIButton"; normalTitle = "username"; ObjectID = "wXC-YF-eTg"; */
