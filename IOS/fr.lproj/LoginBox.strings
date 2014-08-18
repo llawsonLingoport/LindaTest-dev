@@ -1,3 +1,4 @@
+/*LindaTest-dev_1_4 - FULL-FILE*/
 
 /* Class = "IBUILabel"; text = "or"; ObjectID = "DTz-P6-Y3D"; */
 "DTz-P6-Y3D.text" = "or %.2f \t \n %d the %s quick %f brown %3$f fox %1$s jumps %2$d over  %@sleeping dog ";
@@ -6,7 +7,6 @@
 "FiC-Ph-wbo.placeholder" = "Username";
 
 /* Class = "IBUILabel"; text = "Forgot"; ObjectID = "Ixb-lh-X3h"; */
-/*LRM_RESEND ios2*/
 "Ixb-lh-X3h.text" = "Forgot";
 
 
