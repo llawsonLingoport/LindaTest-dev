@@ -102,7 +102,6 @@
       <!--Examples: -->
       <!--   <exclude-dir-file>**/source/bin/**</exclude-dir-file> -->
       <!--   <exclude-dir-file>**/fileToIgnore.*</exclude-dir-file> -->
-      <exclude-dir-file>**\values-xx\**</exclude-dir-file>
       <exclude-dir-file>**/values-is/**</exclude-dir-file>
     </excludes>
   </dirset>
