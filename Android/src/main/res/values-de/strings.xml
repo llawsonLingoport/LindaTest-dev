@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--LindaTest-dev_2_2 - FULL-FILE-->
+<!--LindaTest-dev_3_2 - FULL-FILE-->
 <resources>
   <!--Lingoport test -->
   <string name="param_digit">This is a digit param %d</string>
