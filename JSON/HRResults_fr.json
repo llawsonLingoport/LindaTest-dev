@@ -131,6 +131,7 @@
   "relative": {
     "parents": "parents",
     "father": "father",
+	"_comment2":"LRM_RESEND fr_mom",
     "mother": "mother",
     "spouse": "spouse",
     "child": "child",
