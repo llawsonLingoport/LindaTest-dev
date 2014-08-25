@@ -1,19 +1,19 @@
 {
-  "browse_images": "Browse Images",
-  "legacy": "legacy",
-  "dateString": "dd mmm yyyy",
+  "browse_images": "de Browse Images",
+  "legacy": "de legacy change",
+  "dateString": "de dd mmm yyyy",
   "abbrMonths": [
-    "Jan",
-    "Feb",
-    "Mar",
-    "Apr",
-    "May",
-    "Jun",
-    "Jul",
-    "Aug",
-    "Sep",
-    "Oct",
-    "Nov",
-    "Dec"
+    "de Jan",
+    "de Feb",
+    "de Mar",
+    "de Apr",
+    "de May",
+    "de Jun",
+    "de Jul",
+    "de Aug",
+    "de Sep",
+    "de Oct",
+    "de Nov",
+    "de Dec"
   ]
 }
