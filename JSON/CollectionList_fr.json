@@ -1,20 +1,19 @@
 {
-  "browse_images": "Browse Images",
-  "legacy": "legacy",
-  "dateString": "dd mmm yyyy",
-  "_comment2":"LRM_RESEND fr_abbrMonths",
+  "browse_images": "fr  Browse Images",
+  "legacy": "fr  legacy change",
+  "dateString": "fr  dd mmm yyyy",
   "abbrMonths": [
-    "Jan",
-    "Feb",
-    "Mar",
-    "Apr",
-    "May",
-    "Jun",
-    "Jul",
-    "Aug",
-    "Sep",
-    "Oct",
-    "Nov",
-    "Dec"
+    "fr  Jan",
+    "fr  Feb",
+    "fr  Mar",
+    "fr  Apr",
+    "fr  May",
+    "fr  Jun",
+    "fr  Jul",
+    "fr  Aug",
+    "fr  Sep",
+    "fr  Oct",
+    "fr  Nov",
+    "fr  Dec"
   ]
 }
