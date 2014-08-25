@@ -69,15 +69,11 @@
   "downloadCSV": "Export Results {numberRange}",
   "eventType": {
     "adoption": "adoption:",
-	"_comment2":"LRM_RESEND test2",
     "adult_christening": "adult christening:",
     "amnesty": "amnesty:",
     "annulment": "annulment:",
     "baptism": "baptism:",
     "bar_mitzvah": "bar mitzvah:",
-	
-	"_comment3":"LRM_RESEND TEST3",
-	
     "bas_mitzvah": "bas mitzvah:",
     "birth": "birth:",
     "birth_registration": "birth registration:",
@@ -149,7 +145,6 @@
     "brotherinlaw": "Brother-in-law",
     "child": "Child",
     "cousin": "Cousin",
-	"_comment4":"LRM_RESEND TEST4",
     "daughter": "Daughter",
     "daughterinlaw": "Daughter-in-law",
     "employee": "Employee",
