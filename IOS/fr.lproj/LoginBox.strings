@@ -1,4 +1,4 @@
-/*LindaTest-dev_3_4 - FULL-FILE*/
+/*LindaTest-dev_10_4 - FULL-FILE*/
 
 /* Class = "IBUILabel"; text = "or"; ObjectID = "DTz-P6-Y3D"; */
 "DTz-P6-Y3D.text" = "or %.2f \t \n %d the %s quick %f brown %3$f fox %1$s jumps %2$d over  %@sleeping dog ";
@@ -7,7 +7,7 @@
 "FiC-Ph-wbo.placeholder" = "Username";
 
 /* Class = "IBUILabel"; text = "Forgot"; ObjectID = "Ixb-lh-X3h"; */
-"Ixb-lh-X3h.text" = "Forgot";
+"Ixb-lh-X3h.text" = "Forgot changed";
 
 
 /* Class = "IBUILabel"; text = "The username or password was incorrect."; ObjectID = "tDx-oc-GBE"; */
