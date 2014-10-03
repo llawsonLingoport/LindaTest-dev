@@ -136,6 +136,8 @@
     "child": "child",
     "children": "children",
     "other": "other",
+	"newkey": "new key"
+	
   },
   "role": {
     "aunt": "Aunt",
