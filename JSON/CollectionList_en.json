@@ -1,6 +1,7 @@
 {
   "browse_images": "Browse Images",
   "legacy": "legacy change",
+  "newKey":"this is a new key",
   "dateString": "dd mmm yyyy",
   "abbrMonths": [
     "Jan",
