@@ -3,7 +3,7 @@
   "key2": "valeur de key2 :",
   "key3": "Père &  ville natale #8217s",
   "key4": "<span data-test='paginationStart'>{firstRecordIndex}</span>-<span data-test='paginationEnd'>{lastRecordIndex}</span> de <span data-test='totalResults'>{totalRecordCount}</span>",
-  "key5": "Exporter les résultats {numberRange}",
+  "key5": "Exporter les résultats {numberRange} reimport5",
   "will": "will :",
   "array1": {
     "parents": "parents",
