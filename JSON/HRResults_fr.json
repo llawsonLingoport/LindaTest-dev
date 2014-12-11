@@ -1,17 +1,18 @@
 {
-  "key1": "value for key1",
-  "key2": "value for key2:",
-  "key3": "Father&#8217s Birthplace",
-  "key4": "<span data-test='paginationStart'>{firstRecordIndex}</span>-<span data-test='paginationEnd'>{lastRecordIndex}</span> of <span data-test='totalResults'>{totalRecordCount}</span>",
-  "key5": "Export Results {numberRange}",
-  "will": "will:",
+  "key1": "valeur key1",
+  "key2": "valeur de key2 :",
+  "key3": "Père &  ville natale #8217s",
+  "key4": "<span data-test='paginationStart'>{firstRecordIndex}</span>-<span data-test='paginationEnd'>{lastRecordIndex}</span> de <span data-test='totalResults'>{totalRecordCount}</span>",
+  "key5": "Exporter les résultats {numberRange}",
+  "will": "will :",
   "array1": {
     "parents": "parents",
-    "father": "father",
-    "mother": "mother"
+    "father": "père",
+    "mother": "mère"
   },
   "array2": {
-    "aunt": "Aunt",
-    "brother": "Brother"
+    "aunt": "Tante",
+    "brother": "Frère",
+    "sister": "Soeur"
   }
 }
