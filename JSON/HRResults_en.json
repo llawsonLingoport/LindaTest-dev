@@ -1,6 +1,6 @@
 {
   "key1": "value for key1",
-  "key2": "value for key2:",
+  "key2": "value for key2 change:",
   "key3": "Father&#8217s Birthplace",
   "key4": "<span data-test='paginationStart'>{firstRecordIndex}</span>-<span data-test='paginationEnd'>{lastRecordIndex}</span> of <span data-test='totalResults'>{totalRecordCount}</span>",
   "key5": "Export Results {numberRange}",
