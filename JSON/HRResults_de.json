@@ -4,7 +4,7 @@
   "key3": "Vater &  #8217s Geburtsort",
   "key4": "<span data-test='paginationStart'>{firstRecordIndex}</span>-<span data-test='paginationEnd'>{lastRecordIndex}</span> von <span data-test='totalResults'>{totalRecordCount}</span>",
   "key5": "Exportergebnisse {numberRange}",
-  "will": "Will:",
+  "will": "wird Call:",
   "array1": {
     "parents": "Eltern",
     "father": "Vater",
@@ -12,7 +12,7 @@
   },
   "array2": {
     "aunt": "Tante",
-    "brother": "Bruder change",
+    "brother": "Bruder",
     "sister": "Schwester"
   }
 }
