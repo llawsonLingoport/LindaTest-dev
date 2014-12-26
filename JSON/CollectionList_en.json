@@ -1,8 +1,8 @@
 {
-  "browse_images": "Browse Images",
-  "legacy": "legacy more changes",
+  "browse_images": "Browse Images $velocity.params.",
+  "legacy": "legacy more changes {0} and {1} but not {1} and {0}",
   "newKey":"this is a new key that is changed",
-  "dateString": "dd mmm yyyy",
+  "dateString": "dd mmm yyyy {first} and {last} and {first} again",
   "abbrMonths": [
     "Jan",
     "Feb",
