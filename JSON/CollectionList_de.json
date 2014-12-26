@@ -1,8 +1,8 @@
 {
-  "browse_images": "Suchen Sie Bilder",
-  "legacy": "älteren Änderungen mehr",
+  "browse_images": "Durchsuchen Sie Bilder $velocity.params der.",
+  "legacy": "Ältere mehr Änderungen {0} und {1} aber nicht {1} und {0}",
   "newKey": "Dies ist ein neuer Schlüssel, der geändert wird",
-  "dateString": "Dd mmm Yyyy",
+  "dateString": "Dd mmm Yyyy {first} und {first} und {last} wieder",
   "abbrMonths": [
     "Jan",
     "Feb",
