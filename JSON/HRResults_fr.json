@@ -6,6 +6,7 @@
   "key5": "Exporter les résultats {numberRange} 30/12/2014 3:27 pm",
   "will": "appellera again :",
   "array1": {
+    "_comment": "LRM_RESEND parents is incorrect",
     "parents": "parents",
     "father": "père",
     "mother": "mère"
