@@ -1,8 +1,8 @@
 {
-  "browse_images": "Parcourir les Images",
-  "legacy": "changements plus anciens",
+  "browse_images": "Parcourir les Images $velocity.params.",
+  "legacy": "héritage plus modifications {0} {1} mais {1} et non {0}",
   "newKey": "Il s'agit d'une nouvelle clé qui est changée",
-  "dateString": "jj mmm aaaa",
+  "dateString": "jj mmm aaaa {first} et {last} et {first} à nouveau",
   "abbrMonths": [
     "Jan",
     "Fév",
