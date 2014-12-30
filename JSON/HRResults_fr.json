@@ -1,7 +1,7 @@
 {
   "key1": "valeur key1 changé",
   "key2": "valeur pour key2 changed :",
-  "key3": "Père &  ville natale #8217s",
+  "key3": "Père &  #8217s lieu de naissance 30/12/2014 3 : 13:00",
   "key4": "<span data-test='paginationStart'>{firstRecordIndex}</span>-<span data-test='paginationEnd'>{lastRecordIndex}</span> de <span data-test='totalResults'>{totalRecordCount}</span>",
   "key5": "Exporter les résultats {numberRange}",
   "will": "appellera again :",
@@ -11,7 +11,7 @@
     "mother": "mère"
   },
   "array2": {
-    "aunt": "Tante",
+    "aunt": "Tante 30/12/2014 3 : 13:00",
     "brother": "Frère",
     "sister": "Soeur",
     "cousin": "Que les modifications de cousins 2"
