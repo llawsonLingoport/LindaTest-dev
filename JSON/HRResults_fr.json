@@ -1,18 +1,17 @@
 {
   "key1": "valeur key1 changé",
   "key2": "valeur pour key2 changed :",
-  "key3": "Père &  #8217s lieu de naissance 30/12/2014 3 : 3:27",
+  "key3": "Père &  #8217s lieu de naissance 30/12/2014 3 : 29 pm",
   "key4": "<span data-test='paginationStart'>{firstRecordIndex}</span>-<span data-test='paginationEnd'>{lastRecordIndex}</span> de <span data-test='totalResults'>{totalRecordCount}</span>",
-  "key5": "Exporter les résultats {numberRange} 30/12/2014 3:27 pm",
+  "key5": "Exporter les résultats {numberRange} 30/12/2014 3 : 29 pm",
   "will": "appellera again :",
   "array1": {
-    "_comment": "LRM_RESEND parents is incorrect",
     "parents": "parents",
     "father": "père",
     "mother": "mère"
   },
   "array2": {
-    "aunt": "Tante 30/12/2014 3 : 3:27",
+    "aunt": "Tante 30/12/2014 3 : 29 pm",
     "brother": "Frère",
     "sister": "Soeur",
     "cousin": "Que les modifications de cousins 2"
