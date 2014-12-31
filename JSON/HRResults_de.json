@@ -1,6 +1,6 @@
 {
   "key1": "Wert für key1 geändert",
-  "key2": "Wert für key2-Changed:",
+  "key2": "Wert für key2 More ändern:",
   "key3": "Vater &  #8217s Geburtsort 30.12.2014 3: 13:00",
   "key4": "<span data-test='paginationStart'>{firstRecordIndex}</span>-<span data-test='paginationEnd'>{lastRecordIndex}</span> von <span data-test='totalResults'>{totalRecordCount}</span>",
   "key5": "Export der Ergebnisse {numberRange} 30.12.2014 2: 55 pm",
