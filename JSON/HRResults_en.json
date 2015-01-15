@@ -6,6 +6,7 @@
   "key4": "<span data-test='paginationStart'>{firstRecordIndex}</span>-<span data-test='paginationEnd'>{lastRecordIndex}</span> of <span data-test='totalResults'>{totalRecordCount}</span>",
   "key5": "Export Results {numberRange} 12/30/2014 3:29pm",
    "will": "will call again:",
+   "WILL": "will call again uppercase:",
   "array1": {
     "parents": "parents",
     "father": "father",
