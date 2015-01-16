@@ -2,6 +2,7 @@
   "browse_images": "Parcourir les Images $velocity.params.",
   "legacy": "héritage plus modifications {0} {1} mais {1} et non {0}",
   "newKey": "Il s'agit d'une nouvelle clé qui est changée",
+  "_comment":"LRM_RESEND This is a test",
   "dateString": "jj mmm aaaa {first} et {last} et {first} à nouveau",
   "abbrMonths": [
     "Jan",
