@@ -1,9 +1,7 @@
 {
-"_LRM_PKTAG87":"LindaTest-dev_62_4 - FULL-FILE",
+  "_LRM_PKTAG499": "LindaTest-dev_65_4 - CHANGES-ONLY",
   "browse_images": "Browse Images $velocity.params.",
+  "dateString": "dd mmm yyyy {first} and {last} and {first} again",
   "legacy": "legacy more changes {0} and {1} but not {1} and {0}",
-  "newKey":"this is a new key that is changed for the better",
-  "_LRM_RESEND":"Remove the date format",
-  "dateString": "dd mmm yyyy {first} and {last} and {first} again"
-  
+  "newKey": "this is a new key that is changed for the better"
 }
