@@ -1,7 +1,8 @@
 {
-  "browse_images": "Parcourir les Images $velocity.params.",
-  "legacy": "héritage plus modifications {0} {1} mais {1} et non {0}",
-  "newKey": "Il s'agit d'une nouvelle clé qui est changée",
-  "_comment":"LRM_RESEND This is a test",
-  "dateString": "jj mmm aaaa {first} et {last} et {first} à nouveau"
+"_LRM_PKTAG87":"LindaTest-dev_62_4 - FULL-FILE",
+  "browse_images": "Browse Images $velocity.params.",
+  "legacy": "legacy more changes {0} and {1} but not {1} and {0}",
+  "newKey":"this is a new key that is changed for the better",
+  "dateString": "dd mmm yyyy {first} and {last} and {first} again"
+  
 }

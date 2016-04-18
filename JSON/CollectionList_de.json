@@ -1,7 +1,8 @@
 {
-  "browse_images": "Durchsuchen Sie Bilder $velocity.params der.",
-  "legacy": "Ältere mehr Änderungen {0} und {1} aber nicht {1} und {0}",
-  "newKey": "Dies ist ein neuer Schlüssel, der geändert wird",
-  "dateString": "Dd mmm Yyyy {first} und {first} und {last} wieder"
+"_LRM_PKTAG782":"LindaTest-dev_62_2 - FULL-FILE",
+  "browse_images": "Browse Images $velocity.params.",
+  "legacy": "legacy more changes {0} and {1} but not {1} and {0}",
+  "newKey":"this is a new key that is changed for the better",
+  "dateString": "dd mmm yyyy {first} and {last} and {first} again"
   
 }
